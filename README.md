@@ -48,6 +48,7 @@ Kristal terbentuk karena tubuh kelebihan purin. Hentikan pasokan purin agar kris
 Bahan-bahan alami berikut tidak menggantikan obat dokter, tetapi sangat baik membantu meredakan radang dan membantu pembuangan:
 - **Buah Ceri**: Mengandung antosianin yang membantu menurunkan kadar asam urat dan mengurangi nyeri sendi.
 - **Air Rebusan Daun Salam atau Jahe**: Memiliki sifat anti-inflamasi alami untuk menenangkan sendi yang meradang akibat gesekan kristal yang mulai mengikis.
+
 ⚠️ **Peringatan Keras**: Jangan pernah memijat, mengurut, atau menekan benjolan/sendi yang terkena asam urat. Bentuk kristal asam urat itu tajam menyerupai jarum mikroskopis. Memijatnya justru akan membuat kristal tersebut merobek jaringan bagian dalam sendi dan memicu peradangan yang jauh lebih hebat.
 
 
