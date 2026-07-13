@@ -44,7 +44,7 @@ Berikut adalah metode paling efektif dan terbukti secara klinis untuk melarutkan
 1. Terapi Medis (Cara Utama Melarutkan Kristal)
 Obat-obatan dari dokter adalah satu-satunya cara yang terbukti secara ilmiah mampu mengikis dan melarutkan kristal asam urat (termasuk benjolan keras yang disebut tofus). Dokter akan menggunakan strategi *Treat-to-Target* untuk menurunkan kadar asam urat darah hingga **di bawah 6 mg/dL**. Saat kadar asam urat darah rendah, kristal di sendi akan mulai mencair.
     - **Obat Penghambat Produksi Asam Urat**: Obat seperti Allopurinol atau **Febuxostat** bekerja menghentikan tubuh memproduksi asam urat berlebih. Dosisnya akan disesuaikan dokter secara berkala hingga target tercapai.
-    - **Obat Urikosurik**: Contohnya **Probenecid**, yang bekerja membantu ginjal mengeluarkan lebih banyak asam urat melalui urine.
+        - **Obat Urikosurik**: Contohnya **Probenecid**, yang bekerja membantu ginjal mengeluarkan lebih banyak asam urat melalui urine.
     - **Tindakan Bedah/Operasi**: Jika kristal sudah menumpuk terlalu besar (tofus parah), merusak jaringan sendi, atau pecah dan terinfeksi, dokter ortopedi akan melakukan operasi pengangkatan.
 2. Hidrasi Agresif (Bilas Ginjal Anda)
     - **Minum Air Putih 2–3 Liter Per Hari**: Ini adalah cara alami paling krusial. Air putih membantu mengencerkan urine dan mempermudah ginjal menyaring serta membuang asam urat terlarut keluar dari tubuh sebelum sempat mengkristal kembali.
