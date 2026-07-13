@@ -18,9 +18,13 @@ Prosedur ini tergolong cepat (sekitar 10–15 menit) dan umumnya dilakukan denga
 - **Bius Lokal**: Dokter memberikan anestesi lokal agar area tersebut mati rasa dan meminimalkan rasa sakit saat jarum masuk.
 - **Penyedotan (Aspirasi)**: Jarum steril dimasukkan ke dalam celah sendi, lalu cairan berlebih ditarik keluar menggunakan spuit/jarum suntik.
 - **Suntikan Obat (Opsional)**: Melalui lubang jarum yang sama, dokter sering kali sekaligus menyuntikkan obat anti-inflamasi (seperti [kortikosteroid](https://www.halodoc.com/artikel/cortisone-injection-atasi-radang-dan-nyeri?srsltid=AfmBOopCP_6Bs7s_swWpqCv13q023JOkZXE5bA1y8n0COA2HgQNC1QLw)) untuk mempercepat penyembuhan radang.
+
 Batasan Penting: Ini Bukan Penyembuh Total
+
 Perlu diingat bahwa penyedotan cairan **bukanlah obat untuk menyembuhkan penyakit asam urat secara permanen**. Tindakan ini hanya menyelesaikan masalah penumpukan cairan akibat serangan akut di satu sendi (paling sering di lutut atau jempol kaki).
+
 Zat asam urat yang tinggi di dalam darah Anda tetap harus dikontrol menggunakan obat-obatan oral jangka panjang yang diresepkan dokter (seperti allopurinol atau febuxostat) guna mencegah kristal asam urat kembali menumpuk dan merusak sendi.
+
 Jika Anda atau orang terdekat sedang mengalami pembengkakan sendi yang parah, disarankan untuk segera berkonsultasi ke dokter spesialis untuk mendapatkan diagnosis yang akurat sebelum memutuskan tindakan medis apa pun.
 Apakah Anda menanyakan hal ini karena sedang mengalami **pembengkakan sendi di area tertentu**? Jika iya, boleh tahu di **bagian sendi mana** bengkak tersebut terjadi?
 
