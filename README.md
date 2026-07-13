@@ -5,9 +5,13 @@ asam urat itu apakah memungkinkan di sedot menggunakan jarum suntik
 
 a-ai:
 Ya, asam urat sangat memungkinkan untuk "disedot" menggunakan jarum suntik, tetapi prosedur ini bukan untuk menyedot zat asam urat murni melainkan untuk mengeluarkan cairan sendi yang meradang (efusi sendi) akibat penumpukan kristal asam urat.
+
 Dalam dunia medis, prosedur ini disebut **Artrosentesis** atau **Aspirasi Sendi**. Tindakan ini wajib dilakukan oleh dokter ahli (seperti dokter spesialis penyakit dalam konsultan rematologi atau dokter ortopedi) di fasilitas medis resmi.
+
 Berikut adalah penjelasan lengkap mengenai tujuan, proses, dan penanganan asam urat melalui prosedur ini:
+
 Tujuan Penyedotan Cairan Sendi
+
 Dokter biasanya merekomendasikan tindakan aspirasi sendi ini karena dua alasan utama:
 - **Meredakan Nyeri Instan**: Penumpukan cairan membuat sendi bengkak dan memicu tekanan hebat. Mengeluarkan cairan tersebut akan langsung mengurangi rasa sakit dan kaku.
 - **Menegakkan Diagnosis (Cek Lab)**: Cairan yang disedot akan dibawa ke laboratorium. Dokter akan melihatnya di bawah mikroskop untuk memastikan keberadaan kristal monosodium urat yang tajam seperti jarum. Langkah ini juga penting untuk membedakan asam urat dengan infeksi bakteri pada sendi.
