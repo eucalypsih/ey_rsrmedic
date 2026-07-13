@@ -31,6 +31,7 @@ cara menghancurkan kristal asam urat
 
 a-ai:
 **Kristal asam urat tidak bisa dihancurkan secara instan dengan dipukul, dipijat, atau ditarik paksa**, melainkan harus **dilarutkan kembali ke dalam darah secara perlahan agar bisa dibuang oleh tubuh melalui urine (air kencing)**. Proses pelarutan ini membutuhkan waktu berbulan-bulan melalui kombinasi terapi medis dan perubahan gaya hidup total.
+
 Berikut adalah metode paling efektif dan terbukti secara klinis untuk melarutkan kristal asam urat di sendi:
 1. Terapi Medis (Cara Utama Melarutkan Kristal)
 Obat-obatan dari dokter adalah satu-satunya cara yang terbukti secara ilmiah mampu mengikis dan melarutkan kristal asam urat (termasuk benjolan keras yang disebut tofus). Dokter akan menggunakan strategi *Treat-to-Target* untuk menurunkan kadar asam urat darah hingga **di bawah 6 mg/dL**. Saat kadar asam urat darah rendah, kristal di sendi akan mulai mencair.
