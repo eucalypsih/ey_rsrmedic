@@ -43,20 +43,20 @@ a-ai:
 Berikut adalah metode paling efektif dan terbukti secara klinis untuk melarutkan kristal asam urat di sendi:
 1. Terapi Medis (Cara Utama Melarutkan Kristal)
 Obat-obatan dari dokter adalah satu-satunya cara yang terbukti secara ilmiah mampu mengikis dan melarutkan kristal asam urat (termasuk benjolan keras yang disebut tofus). Dokter akan menggunakan strategi *Treat-to-Target* untuk menurunkan kadar asam urat darah hingga **di bawah 6 mg/dL**. Saat kadar asam urat darah rendah, kristal di sendi akan mulai mencair.
-- **Obat Penghambat Produksi Asam Urat**: Obat seperti Allopurinol atau **Febuxostat** bekerja menghentikan tubuh memproduksi asam urat berlebih. Dosisnya akan disesuaikan dokter secara berkala hingga target tercapai.
-- **Obat Urikosurik**: Contohnya **Probenecid**, yang bekerja membantu ginjal mengeluarkan lebih banyak asam urat melalui urine.
-- **Tindakan Bedah/Operasi**: Jika kristal sudah menumpuk terlalu besar (tofus parah), merusak jaringan sendi, atau pecah dan terinfeksi, dokter ortopedi akan melakukan operasi pengangkatan.
+    - **Obat Penghambat Produksi Asam Urat**: Obat seperti Allopurinol atau **Febuxostat** bekerja menghentikan tubuh memproduksi asam urat berlebih. Dosisnya akan disesuaikan dokter secara berkala hingga target tercapai.
+    - **Obat Urikosurik**: Contohnya **Probenecid**, yang bekerja membantu ginjal mengeluarkan lebih banyak asam urat melalui urine.
+    - **Tindakan Bedah/Operasi**: Jika kristal sudah menumpuk terlalu besar (tofus parah), merusak jaringan sendi, atau pecah dan terinfeksi, dokter ortopedi akan melakukan operasi pengangkatan.
 2. Hidrasi Agresif (Bilas Ginjal Anda)
-- **Minum Air Putih 2–3 Liter Per Hari**: Ini adalah cara alami paling krusial. Air putih membantu mengencerkan urine dan mempermudah ginjal menyaring serta membuang asam urat terlarut keluar dari tubuh sebelum sempat mengkristal kembali.
+    - **Minum Air Putih 2–3 Liter Per Hari**: Ini adalah cara alami paling krusial. Air putih membantu mengencerkan urine dan mempermudah ginjal menyaring serta membuang asam urat terlarut keluar dari tubuh sebelum sempat mengkristal kembali.
 3. Diet Ketat Rendah Purin
 Kristal terbentuk karena tubuh kelebihan purin. Hentikan pasokan purin agar kristal yang ada bisa fokus dilarutkan:
-- **Pantang Total**: Jeroan (hati, ampela, usus), hidangan laut (kerang, udang, kepiting, sarden), daging merah berlebih, dan alkohol (terutama bir).
-- **Hindari Fruktosa Tinggi**: Kurangi minuman kemasan manis, sirup, dan soda karena pemecahan gula fruktosa di dalam tubuh memicu lonjakan asam urat secara drastis.
-- **Konsumsi Makanan Pendukung**: Perbanyak sayuran hijau, produk susu rendah lemak (yoghurt/susu rendah lemak), dan makanan kaya **Vitamin C** (seperti jeruk atau jambu biji) yang membantu ginjal membuang asam urat.
+    - **Pantang Total**: Jeroan (hati, ampela, usus), hidangan laut (kerang, udang, kepiting, sarden), daging merah berlebih, dan alkohol (terutama bir).
+    - **Hindari Fruktosa Tinggi**: Kurangi minuman kemasan manis, sirup, dan soda karena pemecahan gula fruktosa di dalam tubuh memicu lonjakan asam urat secara drastis.
+    - **Konsumsi Makanan Pendukung**: Perbanyak sayuran hijau, produk susu rendah lemak (yoghurt/susu rendah lemak), dan makanan kaya **Vitamin C** (seperti jeruk atau jambu biji) yang membantu ginjal membuang asam urat.
 4. Konsumsi Bahan Alami Pendukung (Herbal)
 Bahan-bahan alami berikut tidak menggantikan obat dokter, tetapi sangat baik membantu meredakan radang dan membantu pembuangan:
-- **Buah Ceri**: Mengandung antosianin yang membantu menurunkan kadar asam urat dan mengurangi nyeri sendi.
-- **Air Rebusan Daun Salam atau Jahe**: Memiliki sifat anti-inflamasi alami untuk menenangkan sendi yang meradang akibat gesekan kristal yang mulai mengikis.
+    - **Buah Ceri**: Mengandung antosianin yang membantu menurunkan kadar asam urat dan mengurangi nyeri sendi.
+    - **Air Rebusan Daun Salam atau Jahe**: Memiliki sifat anti-inflamasi alami untuk menenangkan sendi yang meradang akibat gesekan kristal yang mulai mengikis.
 
 ⚠️ **Peringatan Keras**: Jangan pernah memijat, mengurut, atau menekan benjolan/sendi yang terkena asam urat. Bentuk kristal asam urat itu tajam menyerupai jarum mikroskopis. Memijatnya justru akan membuat kristal tersebut merobek jaringan bagian dalam sendi dan memicu peradangan yang jauh lebih hebat.
 
